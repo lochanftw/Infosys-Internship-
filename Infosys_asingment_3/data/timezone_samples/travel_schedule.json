@@ -1,0 +1,30 @@
+[
+  {
+    "start_date": "2024-03-01T00:00:00",
+    "end_date": "2024-03-07T23:59:59",
+    "timezone": "America/New_York",
+    "location": "New York",
+    "activity_pattern": "business"
+  },
+  {
+    "start_date": "2024-03-08T00:00:00",
+    "end_date": "2024-03-10T23:59:59",
+    "timezone": "Asia/Tokyo",
+    "location": "Tokyo",
+    "activity_pattern": "travel"
+  },
+  {
+    "start_date": "2024-03-11T00:00:00",
+    "end_date": "2024-03-12T23:59:59",
+    "timezone": "Australia/Sydney",
+    "location": "Sydney",
+    "activity_pattern": "vacation"
+  },
+  {
+    "start_date": "2024-03-13T00:00:00",
+    "end_date": "2024-03-15T23:59:59",
+    "timezone": "America/New_York",
+    "location": "New York",
+    "activity_pattern": "business"
+  }
+]
