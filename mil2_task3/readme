@@ -1,0 +1,21 @@
+Holiday Impact: Models with holidays are ~15-20% more accurate
+
+Biggest Effect: Marathon day (+28,000 steps, +350% increase)
+
+Individual Effects:
+
+Vacation: -5,500 steps (-69%)
+
+Sick days: -6,500 steps (-81%)
+
+Marathon: +28,000 steps (+350%)
+
+
+step_forecast_plot.png - 30-day forecast comparison
+
+Question 1: How much do holidays impact step count?
+Answer: Including holidays in the Prophet model improves step count prediction accuracy by 1,008 steps (64.5% improvement). The MAE drops from 1,562 steps (without holidays) to 554 steps (with holidays), demonstrating that holiday events significantly affect daily step patterns.
+
+Question 2: Which event had the biggest effect?
+Answer: Marathon day had the biggest effect with +28,000 steps (+350% increase). This massive spike far exceeds other events: vacation (-5,500 steps), sick days (-6,500 steps), and marathon recovery (-2,500 steps).
+
